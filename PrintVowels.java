@@ -1,6 +1,6 @@
 public class PrintVowels {
     public static void main(String[] args) {
-        String str = "Hello World";
+        String str = "Namaskara Ellarigu";
 
         System.out.print("Vowels: ");
 
