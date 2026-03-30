@@ -1,0 +1,32 @@
+Project Summary
+
+This repository contains a collection of Java programs and problem-solving exercises focused on improving core programming and data structure skills.
+
+It includes implementations of searching algorithms, mathematical problems, string operations, array-based problems, and linked list concepts.
+
+Problems included in this repository:
+
+Binary
+Binary Search
+Bulb Switcher
+Check Vowel
+Count Vowels
+Count Words Starting With Vowel
+Fibonacci
+GCD
+Linked List Cycle
+Majority Element
+Max Product
+Median
+Median Sort
+Palindrome
+Peak Element
+Power Of Two
+Print Vowels
+Rearrange Alternate
+Remove Vowels
+Replace Vowels
+Separate Numbers
+Two Sum
+
+These programs help in developing problem-solving ability, logical thinking, and coding skills, which are useful for technical interviews and real-world applications.
