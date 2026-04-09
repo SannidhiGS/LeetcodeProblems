@@ -9,7 +9,7 @@ class MajorityElement {
                 map.put(nums[i],1);
             }
         }
-
+        //getting result
         int majority=(nums.length/2);
         int result=0;
         for(Map.Entry<Integer,Integer> entry:map.entrySet()){
